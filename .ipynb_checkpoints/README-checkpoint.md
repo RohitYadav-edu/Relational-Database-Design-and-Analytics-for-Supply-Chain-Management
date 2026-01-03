@@ -28,6 +28,7 @@ The project follows an end-to-end data workflow — starting from raw data extra
 13. Business Questions Answered
 14. Key Outcomes
 15. Data Load Order
+16. Database Schema / Physical Model
 
 ---
 
